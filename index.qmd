@@ -1,0 +1,12 @@
+---
+title: "Defying Expectations: Madrid's Miraculous Road to UCL Glory"
+author: "Jacob Spooner"
+date: '2022-10-21'
+categories: [ucl, code, analysis]
+image: "image.png"
+format: 
+  html:
+   code-fold: true
+---
+
+Real Madrid's Champions League triumph last season was a memorable one to say the least. Emerging victorious against the likes of PSG, Chelsea, Manchester City, and Liverpool, labeling these champions as a fluke seems rather harsh. However, the way in which those matches played out has left many skeptical. Did the stars just happen to align in Real Madrid's road to glory? An observation of overall chances, as well as data related to expected goals, help provide further insight into the baffling nature of Madrid's ability to get the job done on the biggest stage of them all.
